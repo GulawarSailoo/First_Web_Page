@@ -1,0 +1,20 @@
+body{
+    background-color:#FF9991;
+    padding: 170px;
+}
+h1{
+   padding-top: 100px;
+    text-align: center;
+    
+}
+p{
+    padding:0px;
+    text-align: center;
+}
+aside{
+    float: left;
+}
+img{
+    align-self: center;
+    
+}
